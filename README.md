@@ -12,7 +12,7 @@ You must access the ```sortify``` object, and provide a method name with an argu
 Example:
 ```javascript
 sortify.bubble([1, 5, 6, 89, 21]);
-//outputs [1, 5, 6, 89, 21]
+//outputs [1, 5, 6, 21, 89]
 ```
 
 ## Implemented algorithms
